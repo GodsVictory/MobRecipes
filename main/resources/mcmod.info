@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mobrecipes",
+  "name": "MobRecipes",
+  "description": "MobRecipes",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gods"],
+  "credits": "Gods",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -24,6 +24,7 @@ public class ModRecipes {
 		GameRegistry.addShapedRecipe(new ItemStack(Items.NETHER_STAR), " S ", "SOS", " S ", 'S', new ItemStack(Items.SKULL, 1, 1), 'O', Blocks.SOUL_SAND);
 		GameRegistry.addShapedRecipe(new ItemStack(Items.GHAST_TEAR), " B ", "BWB", " B ", 'B', new ItemStack(Items.DYE, 1, 15), 'W', new ItemStack(Items.POTIONITEM, 1, 0));
 		GameRegistry.addShapedRecipe(new ItemStack(Items.ENDER_PEARL), "SS", "SS", 'S', Items.SLIME_BALL);
+		GameRegistry.addShapedRecipe(new ItemStack(Items.SADDLE), "LLL", "SLS", "SLS", 'L', Items.LEATHER, 'S', Items.STRING);
 	}
 	
 }

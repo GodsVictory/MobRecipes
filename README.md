@@ -21,6 +21,7 @@ To upload a new update of the mod to CurseForge use this. (Make sure you have fi
 * _curseforgeupload.command
 
 ####For Windows systems.
+
 Setup the workspace for IntelliJ.
 * _setup-idea.bat
 

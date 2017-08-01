@@ -1,5 +1,6 @@
-*
-!src/*
+/*
+/*/
+!src
 !LICENSE.md
 !README.md
 !.gitignore

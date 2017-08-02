@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CS"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "S": {
+      "item": "minecraft:sugar",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 1,
+    "data": 0
+  }
+}

@@ -1,9 +1,6 @@
 package gods.mobrecipes;
 
-import com.gods.mobrecipes.recipe.ModRecipes;
-
 import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
 @Mod(modid = MobRecipes.MODID, version = MobRecipes.VERSION, name = MobRecipes.NAME)
 public class MobRecipes {
@@ -13,10 +10,4 @@ public class MobRecipes {
 
   @Mod.Instance(MODID)
   public static MobRecipes instance;
-
-  @Mod.EventHandler
-  public void init(FMLInitializationEvent event) {
-    ModRecipes.init();
-  }
-
 }

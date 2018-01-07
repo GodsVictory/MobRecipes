@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BD"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:beef",
+      "data": 0
+    },
+    "D": {
+      "item": "minecraft:dirt",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:rotten_flesh",
+    "count": 1,
+    "data": 0
+  }
+}

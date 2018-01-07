@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:nether_wart",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:spider_eye",
+    "count": 1,
+    "data": 0
+  }
+}

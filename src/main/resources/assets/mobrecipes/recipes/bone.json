@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  Q",
+    " Q ",
+    "Q  "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:bone",
+    "count": 3,
+    "data": 0
+  }
+}

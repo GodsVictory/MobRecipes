@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CF"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "F": {
+      "item": "minecraft:flint",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 1,
+    "data": 0
+  }
+}

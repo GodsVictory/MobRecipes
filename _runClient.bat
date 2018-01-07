@@ -1,3 +1,3 @@
 @echo off
-gradlew runClient
+gradlew runClient --debug
 pause
